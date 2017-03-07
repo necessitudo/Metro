@@ -27,6 +27,12 @@ public class MainActivity extends AppCompatActivity {
         stations.add(0, "Полянка");
         stations.add(1, "Автозаводская");
         stations.add(2, "Боровицкая");
+        stations.add(3, "Полянка");
+        stations.add(4, "Автозаводская");
+        stations.add(5, "Боровицкая");
+        stations.add(6, "Полянка");
+        stations.add(7, "Автозаводская");
+        stations.add(8, "Боровицкая");
 
         recycler = (RecyclerView) findViewById(R.id.recycler);
 
